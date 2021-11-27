@@ -2,7 +2,7 @@
 
 [<img src="https://leafletjs.com/docs/images/logo.png" alt="leaflet" width="300" height="100" />](https://godban.github.io/browsers-support-badges/)</br>[<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="node" width="300" height="100" />](https://godban.github.io/browsers-support-badges/)</br>
 
-With this project you can place your location on an interactive map using the leaftlet javascript library plus nodejs.
+With this project you can place your location on an interactive map using the <a href="https://leafletjs.com/" target="__blank">leaflet</a> javascript library plus nodejs.
 
 ## <img src="https://image.flaticon.com/icons/png/512/969/969955.png" alt="support" width="40" height="40">  Install
 
