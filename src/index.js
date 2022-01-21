@@ -13,7 +13,7 @@ const io = socketIO(server);                        //create socket
 const indexRoutes = require('./routes/');
 
 //settings
-app.set('port', process.env.PORT || 3000);           //setting port
+app.set('port', process.env.PORT || 4000);           //setting port
 app.engine('ejs', engine);                          //setting engine
 app.set('view engine', 'ejs');                      //setting view engine
 app.set('views', path.join(__dirname, 'views'));    //setting views
