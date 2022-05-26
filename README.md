@@ -20,9 +20,8 @@ With this project you can place your location on an interactive map using the <a
 
 ## Technologies used
 
-## Technologies used
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Browsers support
 
