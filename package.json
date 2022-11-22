@@ -13,7 +13,7 @@
   "dependencies": {
     "ejs-mate": "^3.0.0",
     "express": "^4.17.1",
-    "socket.io": "^4.4.0"
+    "socket.io": "^4.5.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
